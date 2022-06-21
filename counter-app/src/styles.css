@@ -1,0 +1,10 @@
+html,body{
+    background-color: rgb(12, 10, 48);
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+}
+button{
+    padding: 15px 30px;
+    font-size: 20px;
+}
