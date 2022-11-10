@@ -18,17 +18,6 @@ export const SimpleForm =()=>{
         })
     }
 
-    // useEffect(()=>{
-    //     console.log("useEffect called!")
-    // },[]);
-
-    // useEffect(()=>{
-    //     console.log("the formState changed!")
-    // },[formState]);
-
-    // useEffect(()=>{
-    //     console.log("the formState changed!")
-    // },[formState.username]);
     return(
         <>
             <h1>SimpleForm</h1>

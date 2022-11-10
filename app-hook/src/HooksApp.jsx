@@ -1,10 +1,10 @@
-import { Layaut } from "./05-useLayautEffect/Layaut"
+import { TodoApp } from "./06-useReduecer/TodoApp"
 
 
 export const HookApp = ()=>{
     return(
         <>
-           <Layaut/>
+           <TodoApp/>
         </>
         
     )
